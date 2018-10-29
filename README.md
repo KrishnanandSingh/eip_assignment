@@ -4,7 +4,7 @@
 Rewrite [python 101](https://github.com/machinelearningblr/machinelearningblr.github.io/blob/master/tutorials/CS231n-Materials/CS231n-python-numpy-tutorial.ipynb) 
 after replacing all variables with a few allowed variable names.
 
-> Used [pyminifier](https://github.com/krishnanand-singh/pyminifier) to solve the purpose.
+> Used tailored [pyminifier](https://github.com/krishnanand-singh/pyminifier) to solve the purpose.
 
 **Assignment 2**
 
